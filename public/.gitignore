@@ -1,2 +1,5 @@
+# Question: How to delete .DS_Store?
+# Answer: find . -name ".DS_Store" -delete
+
 .DS_Store
 .idea
